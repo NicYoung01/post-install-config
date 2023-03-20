@@ -39,7 +39,7 @@ Configure "Agents" to add workers in the system. Grant access and permissions an
 <img src="https://i.imgur.com/bkxKRNk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Manage your "SLA Plans" to set rules/guidelines and time information for labels to put on tickets.
+Manage your "SLA Plans" to set rules/guidelines as well as the time to set the priorities on certain tickets.
 </p>
 <br />
 
@@ -47,6 +47,6 @@ Manage your "SLA Plans" to set rules/guidelines and time information for labels 
 <img src="https://i.imgur.com/XTZ9PcN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create additional "Help Topics" that will assist in the creation of tickets by the user.
+Create additional "Help Topics" that will assist in the creation of tickets by the users.
 </p>
 <br />
